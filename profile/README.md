@@ -31,7 +31,7 @@ We're leveraging modern web technologies, cloud infrastructure, and AI capabilit
 | Name | Role | Expertise |
 |------|------|-----------|
 | **Sharvit** | Project Lead & Full-Stack Developer | Full-Stack Development, AI Integration |
-| **Atharva** | Frontend & Integration Specialist | React, UI/UX, Third-party APIs |
+| **Atharva** | FullStack Developer & Integration Specialist | React, Express, REST APIs, Third-party Integrations, MongoDB, JWT Auth |
 | **Priyanshu** | DevOps & AI Backend Engineer | Cloud Infrastructure, AI Services |
 | **Pratik Sir** | Project Mentor | Industry Guidance, Technical Leadership |
 
